@@ -2,7 +2,7 @@
 // Database configuration
 $servername = "localhost";
 $username = "root";
-$password = "140712";
+$password = "";
 $database = "users"; // Change if your DB is named differently
 
 // Create a connection
