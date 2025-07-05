@@ -2,7 +2,7 @@
 // Database connection info
 $servername = "localhost";
 $username = "root"; // use your MySQL user (probably 'root')
-$password = "140712";     // use your MySQL password
+$password = "";     // use your MySQL password
 $database = "sample_db";
 
 // Create connection
